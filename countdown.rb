@@ -8,5 +8,6 @@ def countdown
   end
 end
 
-countdown
 "HAPPY NEW YEAR!"
+countdown
+
