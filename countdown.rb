@@ -1,7 +1,8 @@
 #write your code here
-n=10
+
 
 def countdown
+  n=10
   while number > 0
     puts "#{n} SECOND(S)!"
     n-=1
@@ -10,6 +11,7 @@ def countdown
 end
 
 def countdown
+  n=10
   while number > 0
     puts "#{n} SECOND(S)!"
     n-=1
