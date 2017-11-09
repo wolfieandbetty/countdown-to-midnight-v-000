@@ -7,4 +7,6 @@ def countdown
     n-=1
   end
 end
+
+countdown
 "HAPPY NEW YEAR!"
