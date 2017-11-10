@@ -2,7 +2,7 @@
 
 
 def countdown (seconds_til_midnight)
-  
+
   while seconds_til_midnight > 0
     puts "#{seconds_til_midnight} SECOND(S)!"
     seconds_til_midnight-=1
@@ -20,7 +20,7 @@ def countdown
 end
 
 def countdown_with_sleep (seconds_til_midnight)
-  
+
   while seconds_til_midnight > 0
     puts "#{seconds_til_midnight} SECOND(S)!"
     sleep(1)
